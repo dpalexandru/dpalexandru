@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Alex!
 
-<!--
-**dpalexandru/dpalexandru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Web Developer passionate about building modern web apps.  
+🎯 Currently focused on **React**, **Node.js**, and **MySQL**.  
+🚀 Always learning and experimenting with new technologies.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Front-end: React, Astro, Tailwind CSS and GSAP
+- Back-end: Node.js, Express, mySql and Supabase  
+- Tools: Git, GitHub and Netlify  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Projects
+- 🐶 [DogCityGuide](https://dogcityguide.com) – Pet-friendly travel website  
+- 🧊 Scadenze Frigo – React app to track food expiration dates  
+- ⚽ FootBoolShop – E-commerce concept for football fans  
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandru-dessanai-poian-9a9b37341/)
