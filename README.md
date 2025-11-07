@@ -10,6 +10,7 @@
 - Tools: Git, GitHub and Netlify  
 
 ### 🌍 Projects
+ -🧘‍♀️ [La Ruota del Samsara](https://laruotadelsamsara.com/) A yoga landing page, wellness website designed for Francesca — responsive, modern and minimal.  
 - 🐶 [DogCityGuide](https://dogcityguide.com) – Pet-friendly travel website  
 - 🧊 Scadenze Frigo – React app to track food expiration dates  
 - ⚽ FootBoolShop – E-commerce concept for football fans  
