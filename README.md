@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Alex!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dpalexandru&label=Profile views&color=0e75b6&style=flat" alt="dpalexandru" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=dpalexandru&label=Profile%20views&color=0e75b6&style=flat)
 💻 **Junior Web Developer** passionate about building modern web apps  
 🎯 Focused on **React**, **Node.js**, and **MySQL**  
 🚀 Always learning, designing, and experimenting with new technologies  
